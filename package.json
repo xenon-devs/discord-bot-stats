@@ -1,5 +1,6 @@
 {
-  "name": "discord-bot-stats",
+  "name": "@xenon-devs/discord-bot-stats",
+  "private": false,
   "version": "0.0.1",
   "description": "A tiny library that will calculate hourly or daily growth statistics for a discord bot.",
   "main": "dist/index.js",
